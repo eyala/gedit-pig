@@ -16,7 +16,7 @@ Place the appropriate *pig.lang* file in your gedit installation and restart ged
 
 ### Linux
 
-## Local Installation
+#### Local Installation
 
 1. If it does not exist, add the *gtksourceview-3.0* directory and its contents from this repository to *~/.local/share/*
 
@@ -24,7 +24,7 @@ Place the appropriate *pig.lang* file in your gedit installation and restart ged
 
 3. When you are done, the file's path should be *~/.local/share/gtksourceview-3.0/language-specs/pig.lang*
 
-## Global Installation
+#### Global Installation
 
 1. Add the *pig.lang* files from this repository to their matching directories in */usr/share*
 

@@ -39,6 +39,7 @@
 	<definitions>
 
 		<context id="datatype" style-ref="datatype">
+			<prefix>(?i)</prefix>
 			<keyword>int</keyword>
 			<keyword>long</keyword>
 			<keyword>float</keyword>
