@@ -87,11 +87,13 @@
 			<keyword>copytolocal</keyword>
 			<keyword>cp</keyword>
 			<keyword>cross</keyword>
+			<keyword>cube</keyword>
 			<keyword>%declare</keyword>
 			<keyword>%default</keyword>
 			<keyword>define</keyword>
 			<keyword>describe</keyword>
 			<keyword>desc</keyword>
+			<keyword>dense</keyword>
 			<keyword>diff</keyword>
 			<keyword>distinct</keyword>
 			<keyword>dump</keyword>
@@ -133,10 +135,13 @@
 			<keyword>pig</keyword>
 			<keyword>pwd</keyword>
 			<keyword>quit</keyword>
+			<keyword>rank</keyword>
 			<keyword>register</keyword>
+			<keyword>returns</keyword>
 			<keyword>right</keyword>
 			<keyword>rmf</keyword>
 			<keyword>rm</keyword>
+			<keyword>rollup</keyword>
 			<keyword>run</keyword>
 			<keyword>sample</keyword>
 			<keyword>set</keyword>
@@ -151,6 +156,7 @@
 			<keyword>tuple</keyword>
 			<keyword>union</keyword>
 			<keyword>using</keyword>
+			<keyword>void</keyword>
 		</context>
 
 		<context id="builtin-functions" style-ref="builtin-functions">
