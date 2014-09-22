@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-	Syntax highlighting for Pig Latin 0.11 for GtkSourceView 3
+	Syntax highlighting for Pig Latin 0.12 for GtkSourceView 3
 
 	Author: Eyal Allweil <eallweil@paypal.com>
 	Copyright (C) 2014 Eyal Allweil <eallweil@paypal.com>
@@ -48,6 +48,8 @@
 			<keyword>datetime</keyword>
 			<keyword>chararray</keyword>
 			<keyword>bytearray</keyword>
+			<keyword>biginteger</keyword>
+			<keyword>bigdecimal</keyword>
 		</context>
 
 		<context id="boolean-literal" style-ref="def:boolean">
@@ -75,11 +77,13 @@
 			<keyword>any</keyword>
 			<keyword>all</keyword>
 			<keyword>arrange</keyword>
+			<keyword>assert</keyword>
 			<keyword>asc</keyword>
 			<keyword>as</keyword>
 			<keyword>bag</keyword>
 			<keyword>by</keyword>
 			<keyword>cache</keyword>
+			<keyword>case</keyword>
 			<keyword>cat</keyword>
 			<keyword>cd</keyword>
 			<keyword>cogroup</keyword>
@@ -166,6 +170,7 @@
 			<keyword>ASIN</keyword>
 			<keyword>ATAN</keyword>
 			<keyword>AVG</keyword>
+			<keyword>AvroStorage</keyword>
 			<keyword>BinStorage</keyword>
 			<keyword>CBRT</keyword>
 			<keyword>CEIL</keyword>
@@ -177,6 +182,8 @@
 			<keyword>CurrentTime</keyword>
 			<keyword>DaysBetween</keyword>
 			<keyword>DIFF</keyword>
+			<keyword>ENDSWITH</keyword>
+			<keyword>EqualsIgnoreCase</keyword>
 			<keyword>EXP</keyword>
 			<keyword>FLOOR</keyword>
 			<keyword>GetDay</keyword>
@@ -199,6 +206,7 @@
 			<keyword>LOG10</keyword>
 			<keyword>LOG</keyword>
 			<keyword>LOWER</keyword>
+			<keyword>LTRIM</keyword>
 			<keyword>MAX</keyword>
 			<keyword>MilliSecondsBetween</keyword>
 			<keyword>MIN</keyword>
@@ -206,32 +214,42 @@
 			<keyword>MonthsBetween</keyword>
 			<keyword>PigDump</keyword>
 			<keyword>PigStorage</keyword>
+			<keyword>PluckTuple</keyword>
 			<keyword>RANDOM</keyword>
 			<keyword>REGEX_EXTRACT_ALL</keyword>
 			<keyword>REGEX_EXTRACT</keyword>
 			<keyword>REPLACE</keyword>
 			<keyword>ROUND</keyword>
+			<keyword>RTRIM</keyword>
 			<keyword>SecondsBetween</keyword>
 			<keyword>SINH</keyword>
 			<keyword>SIN</keyword>
 			<keyword>SIZE</keyword>
 			<keyword>SQRT</keyword>
+			<keyword>STARTSWITH</keyword>
 			<keyword>STRSPLIT</keyword>
 			<keyword>SUBSTRING</keyword>
 			<keyword>SubtractDuration</keyword>
+			<keyword>SUBTRACT</keyword>
 			<keyword>SUM</keyword>
 			<keyword>TANH</keyword>
 			<keyword>TAN</keyword>
+			<keyword>Terms</keyword>
 			<keyword>TextLoader</keyword>
 			<keyword>TOBAG</keyword>
 			<keyword>ToDate</keyword>
 			<keyword>TOKENIZE</keyword>
 			<keyword>TOMAP</keyword>
+			<keyword>ToMilliSeconds</keyword>
 			<keyword>TOP</keyword>
+			<keyword>ToString</keyword>
 			<keyword>TOTUPLE</keyword>
+			<keyword>ToUnixTime</keyword>
 			<keyword>TRIM</keyword>
+			<keyword>TrevniStrorage</keyword>
 			<keyword>UCFIRST</keyword>
 			<keyword>UPPER</keyword>
+			<keyword>Usage</keyword>
 			<keyword>WeeksBetween</keyword>
 			<keyword>YearsBetween</keyword>
 		</context>

@@ -2,7 +2,7 @@
 
 This project adds [Apache Pig](http://pig.apache.org/) syntax highlighting to any editor that uses GtkSourceView.
 
-Currently, Pig 0.11 is supported.
+Pig 0.12 is supported in the master branch. For Pig 0.11, follow the instructions below, but take the files from the 0.11 branch.
 
 ## Installation Instructions for Gedit
 
