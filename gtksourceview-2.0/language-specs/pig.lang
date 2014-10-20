@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-	Syntax highlighting for Pig Latin 0.12 for GtkSourceView 2
+	Syntax highlighting for Pig Latin 0.13 for GtkSourceView 2
 
 	Author: Eyal Allweil <eallweil@paypal.com>
 	Copyright (C) 2014 Eyal Allweil <eallweil@paypal.com>
@@ -178,11 +178,13 @@
 		<context id="builtin-functions" style-ref="builtin-functions">
 			<keyword>ABS</keyword>
 			<keyword>ACOS</keyword>
+			<keyword>AccumuloStorage</keyword>
 			<keyword>AddDuration</keyword>
 			<keyword>ASIN</keyword>
 			<keyword>ATAN</keyword>
 			<keyword>AVG</keyword>
 			<keyword>AvroStorage</keyword>
+			<keyword>BagToString</keyword>
 			<keyword>BinStorage</keyword>
 			<keyword>CBRT</keyword>
 			<keyword>CEIL</keyword>
@@ -231,6 +233,7 @@
 			<keyword>REGEX_EXTRACT_ALL</keyword>
 			<keyword>REGEX_EXTRACT</keyword>
 			<keyword>REPLACE</keyword>
+			<keyword>ROUND_TO</keyword>
 			<keyword>ROUND</keyword>
 			<keyword>RTRIM</keyword>
 			<keyword>SecondsBetween</keyword>
