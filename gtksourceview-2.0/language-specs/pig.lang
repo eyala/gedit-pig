@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-	Syntax highlighting for Pig Latin 0.13 for GtkSourceView 2
+	Syntax highlighting for Pig Latin 0.14 for GtkSourceView 2
 
 	Author: Eyal Allweil <eallweil@paypal.com>
 	Copyright (C) 2014 Eyal Allweil <eallweil@paypal.com>
@@ -226,6 +226,7 @@
 			<keyword>MIN</keyword>
 			<keyword>MinutesBetween</keyword>
 			<keyword>MonthsBetween</keyword>
+			<keyword>OrcStorage</keyword>
 			<keyword>PigDump</keyword>
 			<keyword>PigStorage</keyword>
 			<keyword>PluckTuple</keyword>
@@ -240,8 +241,10 @@
 			<keyword>SINH</keyword>
 			<keyword>SIN</keyword>
 			<keyword>SIZE</keyword>
+			<keyword>SPRINTF</keyword>
 			<keyword>SQRT</keyword>
 			<keyword>STARTSWITH</keyword>
+			<keyword>STRSPLITTOBAG</keyword>
 			<keyword>STRSPLIT</keyword>
 			<keyword>SUBSTRING</keyword>
 			<keyword>SubtractDuration</keyword>
@@ -263,6 +266,7 @@
 			<keyword>TRIM</keyword>
 			<keyword>TrevniStrorage</keyword>
 			<keyword>UCFIRST</keyword>
+			<keyword>UniqueID</keyword>
 			<keyword>UPPER</keyword>
 			<keyword>Usage</keyword>
 			<keyword>WeeksBetween</keyword>
